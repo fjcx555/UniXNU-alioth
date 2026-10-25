@@ -8,5 +8,5 @@ commit = "6bb9b025704764a662728dce1a30557a35e082d8"
 [[source]]
 name = "ShengUfs"
 kind = "driver"
-git = "https://github.com/FFT-infra/NativeUfs-alioth"
-commit = "ab5405905a1892da03a9a53e0fa3dcd255d04055"
+git = "https://github.com/fjcx555/NativeUfs-alioth"
+commit = "1d169aefe6522ea2a9ad8a24a6a9a3500e6e3905"
